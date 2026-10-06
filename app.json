@@ -30,6 +30,9 @@
         "projectId": "efa38d98-6e42-49a0-88d0-ec696c397afc"
       }
     },
-    "owner": "guadis"
+    "owner": "guadis",
+    "android": {
+      "package": "com.guadis.boltexponativewind"
+    }
   }
 }
